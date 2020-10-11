@@ -17,7 +17,7 @@
             </div>
             <!--Text-->
             <div class="col-lg-12 text-center">
-                <p class="company-about fadeIn">© 2020 wealthangels. Made With Love By <a href="javascript:void(0);">Wealth Angels</a>
+                <p class="company-about fadeIn">© 2021 wealthangels. Made With Love By <a href="javascript:void(0);">Wealth Angels</a>
                 </p>
             </div>
         </div>
