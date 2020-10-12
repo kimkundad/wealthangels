@@ -11,7 +11,7 @@
     <link href="{{ url('assets/food-shop/css/settings.css') }}" rel="stylesheet">
     <link href="{{ url('assets/food-shop/css/blog.css') }}" rel="stylesheet">
     <link href="{{ url('assets/food-shop/css/style.css') }}" rel="stylesheet">
-    <link href="{{ url('assets/food-shop/css/my_style.css') }}?v1" rel="stylesheet">
+    <link href="{{ url('assets/food-shop/css/my_style.css') }}" rel="stylesheet">
 
     <style>
 
