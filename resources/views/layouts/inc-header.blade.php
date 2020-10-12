@@ -83,7 +83,7 @@
                     <li class="nav-item">
                         <a class="nav-link" href="{{ url('/blog') }}">บทความ</a>
                     </li>
-                    <li class="nav-item dropdown">
+                   <!-- <li class="nav-item dropdown">
                         <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown1" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                             Pages <i class="fas fa-angle-down"></i>
                         </a>
@@ -93,7 +93,7 @@
                             <div class="dropdown-divider"></div>
                             <a class="dropdown-item" href="#"><i class="las la-angle-double-right"></i> Standalone</a>
                         </div>
-                    </li> 
+                    </li> -->
                     
                     <li class="nav-item">
                         <a class="nav-link" href="{{ url('/contact_us') }}">ติดต่อเรา</a>
