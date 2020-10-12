@@ -12,9 +12,9 @@
                 <div class="col-12 col-lg-6 mt-auto mb-auto d-lg-flex justify-content-center justify-content-lg-end">
                     <ul class="shop-details d-flex">
                         <li>
-                            <a href="" class="open_search"><i class="lab la-facebook-f"></i> Wealth Angels</a>
+                            <a href="" class="open_search"><i class="lab la-facebook-f"></i> <span class="my_social">Wealth Angels</span> </a>
                         </li>
-                        <li><a href="javascript:void(0)" id="open-shop-card"><i class="lab la-whatsapp"></i> LineID</a></li>
+                        <li><a href="javascript:void(0)" id="open-shop-card"><i class="lab la-whatsapp"></i> <span class="my_social">LineID</span> </a></li>
                     </ul>
                 </div>
                 <div class="col-12 d-flex justify-content-center align-items-center">
