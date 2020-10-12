@@ -328,24 +328,7 @@ a:active, a:hover {
     position: relative;
     background-color: #f8e7e0;
 }
-.side-menu {
-    width: 35%;
-    position: fixed;
-    right: 0;
-    top: 0;
-    background: #FFFFFF;
-    z-index: 2032;
-    height: 100%;
-    -webkit-transform: translate3d(100%, 0, 0);
-    transform: translate3d(100%, 0, 0);
-    -webkit-transition: -webkit-transform .5s ease;
-    transition: -webkit-transform .5s ease;
-    -o-transition: -o-transform .5s ease;
-    -o-transition: transform .5s ease;
-    transition: transform .5s ease;
-    -webkit-transition: transform .5s ease;
-    overflow: hidden;
-}
+
 
 
 
