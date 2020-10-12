@@ -334,6 +334,31 @@ a:active, a:hover {
     .my_social{
         display: none;
     }
+    .tp-bgimg{
+        height: 250px !important;
+    }
+    .forcefullwidth_wrapper_tp_banner {
+        height: 250px !important;
+    }
+    .rev_slider_wrapper {
+        height: 250px !important;
+    }
+    .slider-sec{
+        min-height: 250px !important;
+    }
+   
+   .c_lines{
+       display: none;
+   }
+   .upper-nav .navbar-brand {
+    margin-top: -32px;
+    margin-right: 0;
+}
+.slider-sec {
+    min-height: 650px;
+    position: relative;
+    margin-top: 128px;
+}
 }
 
 

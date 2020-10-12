@@ -16,14 +16,21 @@ jlpt.online แหล่งรวมข้อสอบ แนวข้อสอ�
 <!--Home Start-->
 <section class="slider-sec" id="slider-sec">
     <div id="rev-slider" class="rev-slider">
-    <div id="rev_slider_18_1_wrapper" class="rev_slider_wrapper fullscreen-container" data-alias="megaone-restaurant-1" data-source="gallery" style="background:transparent;padding:0px;">
+    <div id="rev_slider_18_1_wrapper" class="rev_slider_wrapper fullscreen-container" 
+    data-alias="megaone-restaurant-1" data-source="gallery" style="background:transparent;padding:0px;">
         <!-- START REVOLUTION SLIDER 5.4.8.1 fullscreen mode -->
         <div id="rev_slider_18_1" class="rev_slider fullscreenbanner" style="display:none;" data-version="5.4.8.1">
 
             <ul>	<!-- SLIDE  -->
-                <li data-index="rs-44" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="300"  data-thumb="assets/100x50_3d469-bg-light-1.jpg"  data-rotate="0"  data-saveperformance="off"  data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
+                <li data-index="rs-44" data-transition="fade" data-slotamount="default" data-hideafterloop="0" 
+                data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="300"  
+                data-thumb="assets/100x50_3d469-bg-light-1.jpg"  data-rotate="0"  data-saveperformance="off" 
+                 data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5=""
+                  data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
                     <!-- MAIN IMAGE -->
-                    <img src="{{ url('img/bg_1.jpg') }}"  alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
+                    <img src="{{ url('img/bg_1.jpg') }}"  
+                    alt="" data-bgposition="center center" data-bgfit="cover" 
+                    data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
                     <!-- LAYERS -->
                     <div class="slider-overlay"></div>
                     <!-- LAYER NR. 1 -->
@@ -39,7 +46,7 @@ jlpt.online แหล่งรวมข้อสอบ แนวข้อสอ�
 <!--        <path d="M 100 100 V 10 L 0 100"/>-->
 <!--        <path d="M 30 73 L 100 18 V 10 Z" fill="#308355" stroke-width="0"/>-->
 <!--    </svg>-->
-    <svg id="bigHalfCircle" xmlns="http://www.w3.org/2000/svg" version="1.1" width="100%" height="60" viewBox="0 0 100 100" preserveAspectRatio="none">
+    <svg id="bigHalfCircle" class="c_lines" xmlns="http://www.w3.org/2000/svg" version="1.1" width="100%" height="60" viewBox="0 0 100 100" preserveAspectRatio="none">
         <path d="M0 100 C40 0 60 0 100 100 Z"/>
     </svg>
 </div>
